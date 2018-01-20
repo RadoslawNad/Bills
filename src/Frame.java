@@ -12,7 +12,9 @@ import javax.swing.JTextArea;
 
 
 /*
+ * 
  * Main frame to chose persons and display information.
+ * 
  */
 public class Frame extends javax.swing.JFrame {
 	private boolean proofB = false;
